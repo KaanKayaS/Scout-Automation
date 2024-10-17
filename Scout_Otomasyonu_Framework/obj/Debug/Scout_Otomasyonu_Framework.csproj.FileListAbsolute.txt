@@ -1,0 +1,14 @@
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.csproj.AssemblyReference.cache
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.Form2.resources
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.Properties.Resources.resources
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.csproj.GenerateResource.cache
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\bin\Debug\Scout_Otomasyonu_Framework.exe.config
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\bin\Debug\Scout_Otomasyonu_Framework.exe
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\bin\Debug\Scout_Otomasyonu_Framework.pdb
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.Form3.resources
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.csproj.CopyComplete
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.exe
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.pdb
+C:\Users\Kaan Kaya\source\repos\Scout_Otomasyonu_Framework\obj\Debug\Scout_Otomasyonu_Framework.textBox10.resources
